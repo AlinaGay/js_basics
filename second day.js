@@ -103,6 +103,7 @@ console.log(c);*/
 //32
 let first = 'John';
 let last = 'Smith';
+
 // noinspection JSAnnotator
 let name = `${first} ${last}`;
 console.log(name);
